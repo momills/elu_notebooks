@@ -1,0 +1,35 @@
+{
+    "Paul Jenkings": {
+        "Courses": {
+            "Dr Kwame Nyamekye": [
+                "Polical Systems of the World"
+            ],
+            "Prof Salma": [
+                "Polical Psychology",
+                "People Psychology"
+            ],
+            "Prof Steven Barnes": [
+                "Intro to Polical Strategy",
+                "Governance 482"
+            ]
+        },
+        "Degree": "MA Polical Science",
+        "ID": 401,
+        "StartYear": 2019
+    },
+    "Peter Smith": {
+        "Courses": {
+            "Dr Mark": [
+                "Algorithms",
+                "Intro to Network Security"
+            ],
+            "Prof Stevens": [
+                "Embedded Systems",
+                "Advanced Programming"
+            ]
+        },
+        "Degree": "MSc Computer Science",
+        "ID": 101,
+        "StartYear": 2019
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "MCS1802001": {
+        "Courses": {
+            "Alper Utku": [
+                "Leadership 1",
+                "Team Management"
+            ],
+            "John Snow": [
+                "Intro to Hacking",
+                "Intrusion Prevention and Detection",
+                "White Hacking"
+            ],
+            "Simon Matthews": [
+                "Cyber Law 1",
+                "Cyber Law 2",
+                "IP Laws"
+            ]
+        },
+        "Degree": "Master of Cyber Security",
+        "Name": "Kwame Nyamekye Jnr",
+        "StartYear": "2018"
+    },
+    "MDS1901001": {
+        "Courses": {
+            "Alper Utku": [
+                "Leadership 1",
+                "Leadership 2"
+            ],
+            "Ricardo Periera": [
+                "Intro to Jupyter Notebook",
+                "Advanced Python",
+                "Python for Data Science"
+            ]
+        },
+        "Degree": "Master of Data Science",
+        "Name": "Michael Odartei Mills",
+        "StartYear": "2019"
+    },
+    "MDS1901002": {
+        "Courses": {
+            "Alper Utku": [
+                "Leadership 1",
+                "Leadership 2"
+            ],
+            "Ricardo Periera": [
+                "Intro to Jupyter Notebook",
+                "Advanced Python",
+                "Python for Data Science"
+            ]
+        },
+        "Degree": "Master of Data Science",
+        "Name": "McAndrew Saad",
+        "StartYear": "2019"
+    }
+}
