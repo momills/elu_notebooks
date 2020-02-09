@@ -1,0 +1,13 @@
+coord, {'lon': 121.46, 'lat': 31.22}
+weather, [{'id': 800, 'main': 'Clear', 'description': 'clear sky', 'icon': '01n'}]
+base, stations
+main, {'temp': 278.07, 'feels_like': 275.83, 'temp_min': 275.15, 'temp_max': 280.93, 'pressure': 1027, 'humidity': 86}
+visibility, 6000
+wind, {'speed': 1, 'deg': 170}
+clouds, {'all': 0}
+dt, 1581274102
+sys, {'type': 1, 'id': 9659, 'country': 'CN', 'sunrise': 1581288047, 'sunset': 1581327365}
+timezone, 28800
+id, 1796236
+name, Shanghai
+cod, 200
