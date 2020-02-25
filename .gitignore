@@ -123,3 +123,5 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+M3/museum-data.csv
+M3/museumdata.csv
